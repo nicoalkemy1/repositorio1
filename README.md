@@ -18,3 +18,11 @@
 Esta es una cita al pie[^1]
 
 [^1}: Mi cita
+
+- un item
+- otro item
+- otro item
+
+1. Lista anidada
+   - Primer item
+   - Segundo item
